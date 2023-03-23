@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/food-ordering-app/static/css/main.4be9e214.css",
+    "main.js": "/food-ordering-app/static/js/main.26fde3af.js",
+    "static/media/chicken-wings.jpg": "/food-ordering-app/static/media/chicken-wings.b0114719e106fabbc5ba.jpg",
+    "static/media/toast.jpg": "/food-ordering-app/static/media/toast.16cee0eb10050ef89a8c.jpg",
+    "static/media/burger.jpg": "/food-ordering-app/static/media/burger.eb3433f61ce981f08f2d.jpg",
+    "static/media/beef.jpg": "/food-ordering-app/static/media/beef.0153325ee3b128298f23.jpg",
+    "static/media/salmon.jpg": "/food-ordering-app/static/media/salmon.dce97ad68a85a75b3bc1.jpg",
+    "static/media/restaurant-icon.png": "/food-ordering-app/static/media/restaurant-icon.c97a89122225fc146cce.png",
+    "static/media/shopping-cart.png": "/food-ordering-app/static/media/shopping-cart.306413a40d1cb0164491.png",
+    "index.html": "/food-ordering-app/index.html",
+    "main.4be9e214.css.map": "/food-ordering-app/static/css/main.4be9e214.css.map",
+    "main.26fde3af.js.map": "/food-ordering-app/static/js/main.26fde3af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be9e214.css",
+    "static/js/main.26fde3af.js"
+  ]
+}
